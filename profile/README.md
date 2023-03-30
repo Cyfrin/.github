@@ -1,6 +1,6 @@
 # 🔐 Cyfrin
 
-<img src="../cyfrin-logo.png" alt="Cyfrin" width="200" >
+<img src="https://github.com/ChainAccelOrg/.github/blob/main/cyfrin-logo.png?raw=true" alt="Cyfrin" width="200" >
 
 
 At Cyfrin, we specialize in providing top-notch security audits for smart contracts, and we aim to scale all of web. We are planning to do more than just audits, so our company name is Chain Accel, but we are starting with security with Cyfrin!
