@@ -4,7 +4,7 @@
 <img src="./cyfrin-logo.png" alt="Cyfrin" width="200" >
 
 
-At Cyfrin, we specialize in providing top-notch security audits for smart contracts, and we aim to scale all of web.
+At Cyfrin, we specialize in providing top-notch security audits for smart contracts, and we aim to scale all of web3.
 
 ## 🛠 Services
 We offer 3 main product at the moment, you can find more about us at [cyfrin.io](https://cyfrin.io)
