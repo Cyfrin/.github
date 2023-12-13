@@ -1,8 +1,4 @@
-# 🔐 Cyfrin
-
-<img src="./cyfrin-logo.png" alt="Cyfrin" width="200" >
-
-## Contact
+## Contacts
 - 📧 Email: audits@cyfrin.io
 - 🌐 [Website](https://cyfrin.io)
 - 🐦 [Twitter](https://twitter.com/CyfrinAudits)
