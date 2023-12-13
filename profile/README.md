@@ -1,6 +1,5 @@
 # 🔐 Cyfrin
 
-<!-- this is pretty dumb, github profile thinks it's in the same directory... which it's not -->
 <img src="./cyfrin-logo.png" alt="Cyfrin" width="200" >
 
 ## Contact
