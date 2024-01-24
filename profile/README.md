@@ -1,5 +1,5 @@
 ## Contacts
-- 📧 Email: audits@cyfrin.io
+- 📧 Email: audit@cyfrin.io
 - 🌐 [Website](https://cyfrin.io)
 - 🐦 [Twitter](https://twitter.com/CyfrinAudits)
 - 💼 [LinkedIn](https://www.linkedin.com/company/cyfrin)
